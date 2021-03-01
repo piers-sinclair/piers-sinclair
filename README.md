@@ -7,5 +7,5 @@
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I can speak Mandarin Chinese semi fluently!
 
-Regards,
-Piers Sinclair
+Regards  
+Piers Sinclair  
