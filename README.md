@@ -6,6 +6,8 @@
 * 📫 How to reach me: @pierssinclairssw
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I can speak Mandarin Chinese semi fluently!
+* 💪 Mentoring: Currently mentoring on SSW Rules
+* 👨‍🎓 Exploration: I'm exploring leadership with @adamcogan
 
 [![Piers' GitHub stats](https://github-readme-stats.vercel.app/api?username=pierssinclairssw&theme=onedark&show_icons=true)](https://github.com/pierssinclairssw/github-readme-stats)
 
