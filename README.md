@@ -4,7 +4,7 @@
 
 10+ years leading engineering teams across multiple regions. I bridge technical depth with executive strategy — modernising architectures, scaling high-performing teams, and aligning engineering with business outcomes.
 
-💬 Ask me about **Engineering Leadership**, **Modular Monoliths**, **Agile & Scrum**<br>
+💬 Ask me about Engineering Leadership, Modular Monoliths, Agile & Scrum<br>
 ⚡ Fun fact: I speak Mandarin Chinese semi-fluently!
 
 ---
